@@ -33,6 +33,24 @@ public class printNum {
 			
 			
 		System.out.println("\n hi gaurav");
+		
+		
+		System.out.println("swap program");
+		
+		int m=190;
+		int n=300;
+		int temp=0;
+		
+		System.out.println("before swap : m = " + m +" and n = "+ n);
+		
+		
+		temp=m;
+		m=n;
+		n=temp;
+		
+		System.out.println("After swap: m = " +m + "and n = " + n);
+	
+		
 	}
 
 }
